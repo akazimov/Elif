@@ -5,7 +5,7 @@ import java.nio.file.Paths;
 import java.util.List;
 
 public final class Elif {
-    public static void errorMessage() {
+    private static void errorMessage() {
         System.out.println("Ooops, something went wrong. Here is the error message: ");
     }
 
